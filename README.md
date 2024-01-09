@@ -54,10 +54,15 @@ We will login to osTicket with (http://localhost/osTicket/scp/login.php and logi
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![Screenshot 2024-01-09 134211](https://github.com/kevonrochester/post-install-config/assets/155024615/58a3c991-73e8-4013-9b77-64c72a42c472)
+
+Now that we are login This is what the Agent Panel interface looks like. Also you can see that you can click Admin Panel in the top right corner so you also know that you are in the "Agent Panel" 
 </p>
 <br />
+
+![Screenshot 2024-01-09 134436](https://github.com/kevonrochester/post-install-config/assets/155024615/522905db-8eb2-4795-93b1-52532a6b519e)
+
+This is what the "Admin Panel" interface looks like similar as the Agent Panel you can see in the top right that it says Agent Panel so you know you are in the "Admin Panel". Also the "Admin Panel" has a lot more tabs for creative control.
+
+
+
