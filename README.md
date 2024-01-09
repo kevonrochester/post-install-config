@@ -84,9 +84,11 @@ Now will Create Some departments because Tickets are routed through Departments 
 
 Now i will be showing you how to create a team ( similar to real world scenario there will be different people working on different set of tickets etc and is normally organized but not subjected to different teams ) We will be in the Agent Panel > Click - Agents > Teams > Add New Team. I will be naming the team, Team B ( but again the team name doesn't techanically matter ). We can set a " Team Lead Here " Ect . Then we will click " Create Team " and the Green panel saying successful will indicate that the team was created.
 
+![Screenshot 2024-01-09 142016](https://github.com/kevonrochester/post-install-config/assets/155024615/43efc21f-9b10-443b-8dfc-bf828bf8979f)
 
 
 
+Now we will show you how to have anyone create a ticket if you deicde that not only users and agents can make tickets. ( In a real world scenario so people can get help from the help desk who is not in the help desk department or a user but every situation can be different ). Admin Panel > Click -  Settings > Users > Click Require Reigistration and login to create tickets ( keeping the box unchecked )  > Click save Changes. Again greeted by the green successful banner when you know it is complete.
 
 
 
