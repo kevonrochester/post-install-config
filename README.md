@@ -103,6 +103,38 @@ Next We will Create Agents ( basically the people who will be working in the hel
 
 The "Access" tab is to assign the department and roles of the agent while extended access is if you want the agent in multiple departments. The "Permissions" tab is to set permissions of the agent. The "Teams" tab is to assign them to any teams of your choice. And you can click Create when you are finished Greeted by the green panel again.
 
+![Screenshot 2024-01-09 144221](https://github.com/kevonrochester/post-install-config/assets/155024615/92c45927-edd0-4123-aeb2-02f5f21e8a77)
+![Screenshot 2024-01-09 144443](https://github.com/kevonrochester/post-install-config/assets/155024615/8dc051ee-58f0-4216-b195-88b3f43775f4)
+![Screenshot 2024-01-09 144536](https://github.com/kevonrochester/post-install-config/assets/155024615/7cd8a79c-f663-4b7c-b8e2-69f944ea97bf)
+
+Moving forward we will create users ( Which is the people who will be creating tickets for the help desk to solve ). We will go to the Agent Panel > Click - Users > Add New. I will be adding new demo accounts called Ryu and Ken to simulate the real world again the names technically doesn't matter. After completeing the information for each User we will click " Add User ".
+
+![Screenshot 2024-01-09 145114](https://github.com/kevonrochester/post-install-config/assets/155024615/45052347-e48c-425e-b975-cf74a634093c)
+![Screenshot 2024-01-09 145303](https://github.com/kevonrochester/post-install-config/assets/155024615/59f96df1-ac3d-4246-abae-2fcb324b3bd5)
+![Screenshot 2024-01-09 145535](https://github.com/kevonrochester/post-install-config/assets/155024615/e617d2c8-8ff8-4f95-ae00-8ff4df2243f9)
+
+Then we will Create "SLA Plans" ( aka Service Level Agreement which is used to Provide the length of time in which the help desk Admin expects tickets to be Closed ). We will go to the Admin Panel > Click - Manage > SLA > Add New SLA PLAn. We will create SLA A , SLA B , SLA C ( again the names doesnt matter just the settings you choose to create ). Then we will click   "Add Plan "
+
+
+![Screenshot 2024-01-09 150706](https://github.com/kevonrochester/post-install-config/assets/155024615/90aa3843-694a-45ab-a93a-052a7e62de8f)
+![Screenshot 2024-01-09 150725](https://github.com/kevonrochester/post-install-config/assets/155024615/1cf5e01f-2c91-4682-afec-436f3acecf42)
+![Screenshot 2024-01-09 155225](https://github.com/kevonrochester/post-install-config/assets/155024615/8874300d-5fce-4416-9be8-e8be007391db)
+
+
+After that we will Create Help topics. Help topics will determine what Department the tickets is routed to and the priority of an ticket. Admin panel > click - Manage > Help Topics.
+We will create Critical Outage , Personal Cpu Issues , Equipment Request , and password Reset but again the names doesn't matter you can make it whatever you want it to be. Click - Add New Help Topic > Add Topic ( when you completed your settings).
+
+
+That completes this tutorial of the main Features used in OsTicket
+
+
+
+
+
+
+
+
+
 
 
 
