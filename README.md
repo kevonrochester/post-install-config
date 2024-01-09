@@ -64,5 +64,24 @@ Now that we are login This is what the Agent Panel interface looks like. Also yo
 
 This is what the "Admin Panel" interface looks like similar as the Agent Panel you can see in the top right that it says Agent Panel so you know you are in the "Admin Panel". Also the "Admin Panel" has a lot more tabs for creative control.
 
+![Screenshot 2024-01-09 135124](https://github.com/kevonrochester/post-install-config/assets/155024615/5d847aeb-2622-440b-bd83-a6ed4504279e)
+![Screenshot 2024-01-09 135154](https://github.com/kevonrochester/post-install-config/assets/155024615/b77ccce1-d7b0-428d-bd94-fd3ff9a26c78)
+![Screenshot 2024-01-09 135429](https://github.com/kevonrochester/post-install-config/assets/155024615/dce97192-3e68-4d35-8c80-388212203f90)
+![Screenshot 2024-01-09 135513](https://github.com/kevonrochester/post-install-config/assets/155024615/196ff506-9e3b-451b-b3e0-b5471c7da2f9)
+![Screenshot 2024-01-09 135525](https://github.com/kevonrochester/post-install-config/assets/155024615/cd1c3285-1962-4955-9313-33aa89d1b8b0)
+![Screenshot 2024-01-09 135801](https://github.com/kevonrochester/post-install-config/assets/155024615/bdb47bc5-5856-494c-aa3b-33957a031106)
+
+We will be configuring roles on the "Admin Panel" and create a new role called Supreme Admin and give it Permissions ( the name doesn't matter as it can technically be whatever you want it to be). We will Click Agents > Roles > Add New Role > ( Name the Role) > Permissions > Add Role. We went ahead and gave our new role " Supreme Admin " all permissions and when completed it will say "Succuessfully Added Role." at the upper center of the screen in a green bar.
+
+
+
+
+
+
+
+
+
+
+
 
 
