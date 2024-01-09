@@ -7,11 +7,6 @@
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -24,11 +19,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Agent Panel & Admin Panel
+-  Roles
+- Departments
+- Teams
+- Agents
+- Users
+- SLA
+- Help Topics
 
 <h2>Configuration Steps</h2>
 
@@ -125,7 +123,7 @@ After that we will Create Help topics. Help topics will determine what Departmen
 We will create Critical Outage , Personal Cpu Issues , Equipment Request , and password Reset but again the names doesn't matter you can make it whatever you want it to be. Click - Add New Help Topic > Add Topic ( when you completed your settings).
 
 
-That completes this tutorial of the main Features used in OsTicket
+That completes this tutorial of the Post-Install Configuration in OsTicket
 
 
 
