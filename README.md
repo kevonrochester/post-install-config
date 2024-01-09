@@ -16,7 +16,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- OSTicket
 
 <h2>Operating Systems Used </h2>
 
@@ -47,11 +47,10 @@ First since we are using a virtual machine for this turtorial . We will go to Po
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![Screenshot 2024-01-09 133654](https://github.com/kevonrochester/post-install-config/assets/155024615/373ff6ba-a7eb-43c8-a52c-c8ba50d519a9)
+
+
+We will login to osTicket with (http://localhost/osTicket/scp/login.php and login with whatever your Credientials you created for the username and password.
 </p>
 <br />
 
