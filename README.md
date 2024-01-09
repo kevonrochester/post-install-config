@@ -90,6 +90,23 @@ Now i will be showing you how to create a team ( similar to real world scenario 
 
 Now we will show you how to have anyone create a ticket if you deicde that not only users and agents can make tickets. ( In a real world scenario so people can get help from the help desk who is not in the help desk department or a user but every situation can be different ). Admin Panel > Click -  Settings > Users > Click Require Reigistration and login to create tickets ( keeping the box unchecked )  > Click save Changes. Again greeted by the green successful banner when you know it is complete.
 
+![Screenshot 2024-01-09 142423](https://github.com/kevonrochester/post-install-config/assets/155024615/cf8aa4be-0303-43b3-ab41-fcb870c6e7af)
+![Screenshot 2024-01-09 142932](https://github.com/kevonrochester/post-install-config/assets/155024615/1ae70717-4237-45a4-955c-c41f83b31a71)
+![Screenshot 2024-01-09 142956](https://github.com/kevonrochester/post-install-config/assets/155024615/2159874f-e1d5-446d-9f6d-80800da16179)
+
+
+Next We will Create Agents ( basically the people who will be working in the help desk with there own login information so we know in a real world scenario who is working on and assign to what tickets etc ).  We will be in the Admin Panel > Click Agents > Agents > Add New Agent. We will be creating two agents for this demo which will be Jane doe and John Doe. You can set the password for the Agents, sent it to their email and even have them reset it after they login or not again up to you By clicking on Set password and following the Prompt.
+
+![Screenshot 2024-01-09 143443](https://github.com/kevonrochester/post-install-config/assets/155024615/1678d075-083f-4a46-90ba-4b9a23105578)
+![Screenshot 2024-01-09 143623](https://github.com/kevonrochester/post-install-config/assets/155024615/cc276265-eeb8-4142-996f-4672a829e614)
+![Screenshot 2024-01-09 143637](https://github.com/kevonrochester/post-install-config/assets/155024615/ce01958e-4d17-4096-be8c-7391cdcc7af3)
+
+The "Access" tab is to assign the department and roles of the agent while extended access is if you want the agent in multiple departments. The "Permissions" tab is to set permissions of the agent. The "Teams" tab is to assign them to any teams of your choice. And you can click Create when you are finished Greeted by the green panel again.
+
+
+
+
+
 
 
 
