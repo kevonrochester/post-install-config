@@ -73,6 +73,21 @@ This is what the "Admin Panel" interface looks like similar as the Agent Panel y
 
 We will be configuring roles on the "Admin Panel" and create a new role called Supreme Admin and give it Permissions ( the name doesn't matter as it can technically be whatever you want it to be). We will Click Agents > Roles > Add New Role > ( Name the Role) > Permissions > Add Role. We went ahead and gave our new role " Supreme Admin " all permissions and when completed it will say "Succuessfully Added Role." at the upper center of the screen in a green bar.
 
+![Screenshot 2024-01-09 140129](https://github.com/kevonrochester/post-install-config/assets/155024615/12ba079a-af08-4548-8c6d-97d1385bbf61)
+![Screenshot 2024-01-09 140344](https://github.com/kevonrochester/post-install-config/assets/155024615/b89162fd-8745-47a8-9ced-72b4f785df86)
+
+Now will Create Some departments because Tickets are routed through Departments in the help desk ( again the name of the departments technically doesn't matter but is used to organize the different tickets in a real world scenario ) We will be in the  Admin Panel > Click - Agents > Departments > Add New Department . This is where you will name the department . Configure your SLA ( Service Level Agreement ) , set managers , email settings and all different type of settings associated with configuring the Department the way you would want it to be.
+
+![Screenshot 2024-01-09 140941](https://github.com/kevonrochester/post-install-config/assets/155024615/684c2a83-b161-450d-af72-26c28d6801b3)
+![Screenshot 2024-01-09 141138](https://github.com/kevonrochester/post-install-config/assets/155024615/e419cbed-4fbf-4a22-90a8-72167aa27f68)
+![Screenshot 2024-01-09 141506](https://github.com/kevonrochester/post-install-config/assets/155024615/a2fc78ef-df37-4874-9585-013af8fef177)
+
+Now i will be showing you how to create a team ( similar to real world scenario there will be different people working on different set of tickets etc and is normally organized but not subjected to different teams ) We will be in the Agent Panel > Click - Agents > Teams > Add New Team. I will be naming the team, Team B ( but again the team name doesn't techanically matter ). We can set a " Team Lead Here " Ect . Then we will click " Create Team " and the Green panel saying successful will indicate that the team was created.
+
+
+
+
+
 
 
 
